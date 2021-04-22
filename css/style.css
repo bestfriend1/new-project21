@@ -34,7 +34,7 @@ body{
 	width: 100%;
 	height: auto;
 	background: #000000;
-	padding: 0px 2px;
+	padding: 0px 0px;
 }
 .clearfix::after{
 	content: "";
